@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1186
     wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
 description: L'anneau du forçat. English
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37225#The-Galley-Slave-s-Ringor-The-Family-of-Lebrenn.-A-Tale-of-The-French-Revolution-of-1848
 gutenberg_issued: '2011-08-27'
 gutenberg_type: Text
 identifiers:
